@@ -27,7 +27,8 @@ class GF_PLL {
       'customLabel',
       'value',
       'subject',
-      'tooltiptext'
+      'tooltiptext',
+      'customTooltip'
     );
 
     $this->blacklist = array();
